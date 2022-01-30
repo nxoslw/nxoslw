@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nahid Ahmad From Bangladesh
+- 🥴 I’m interested in Good Sleep💤
+- ✨ I shine with PHP, Laravel, Alpine JS, Vue JS, Nuxt JS, TailwindCSS, Bootstrap 
+- 💞️ I’m looking to collaborate on Project ideas that can feed my soul
+- 📫 How to reach me! Email: nxoslw@gmail.com || FB,IG,Twitter,Telegram: @nxoslw
