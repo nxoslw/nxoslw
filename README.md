@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Project ideas that can feed my soul
 - 📫 How to reach me! Email: nxoslw@gmail.com || FB,Twitter,Telegram: @nxoslw
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=callbackcrows7&theme=dark&show_icons=true&count_private=true" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nxoslw&theme=dark&show_icons=true&count_private=true" />
 
 <div id="user-content-toc">
   <ul align="center">
